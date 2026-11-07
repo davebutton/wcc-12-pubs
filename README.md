@@ -1,1 +1,1 @@
-# wcc-web-1
+# wcc-12-pubs
